@@ -1,4 +1,6 @@
-Sobre mim - Iniciando na carreira de Data Analysis
+<h3 align="center">Sobre mim - Iniciando na carreira de Data Analysis</h3>
+
+<h3 align="center">Apaixonado por ciência e análise de dados no mundo digital</h3>
 
 👋 Olá! Meu nome é Erick e eu sou um iniciante na carreira de Data Analysis. Este repositório foi criado para mostrar meus projetos, compartilhar conhecimento e documentar minha jornada de aprendizado.
 

@@ -1,5 +1,5 @@
 
-<h3 align="center">Apaixonado por ciência e análise de dados no mundo digital</h3>
+<h3 align="center">Apaixonado por ciência e análise de dados</h3>
 
 👋 Olá! Bem-vindo(a) ao meu repositório de projetos pessoais de Data Analysis! Aqui você encontrará um conjunto de projetos de análise de dados que desenvolvi como parte da minha jornada de aprendizado.
 
